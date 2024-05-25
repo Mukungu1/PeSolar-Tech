@@ -5,9 +5,13 @@
   "scripts": {
     "start": "astro dev",
     "build": "astro build",
+    "preview": "astro preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thomson",
+  "author": "Mukungu Thomson",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "astro": "^4.9.1" 
+  }
 }
